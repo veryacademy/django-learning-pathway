@@ -14,6 +14,10 @@ This course is the beginning of the journey to Python and Django proficiency. He
 Link to Tutorial: TBC
 </details>
 
+---
+
+<br>
+
 
 ### **Django Basics**
 ---
