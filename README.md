@@ -76,6 +76,15 @@ Link to Tutorial: TBC
 </details>
 
 <details>
+<summary><b>Django with Docker DJ020</b>
+</summary>
+<br>
+This course is the beginning of the journey to Python and Django proficiency. 
+<br><br>
+Link to Tutorial: TBC
+</details>
+
+<details>
 <summary><b>Django Test Driven Development DJ013</b>
 </summary>
 <br>
