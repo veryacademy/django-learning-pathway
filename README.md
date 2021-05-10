@@ -1,20 +1,6 @@
 ![veryacademy](/logo.svg)
 
 <div align="center">
-  <h1>Django Learning Pathways</h1>
-</div>
-
-<div align="center">
-  <strong>Structure of learning for Python and the Django Framework</strong>
-</div>
-
-<div align="center">
-  The Django E-commerce project is an open-source initiative and tutorial series. Learn from a beginner level how to build an e-commerce website.
-</div>
-
-<br>
-
-<div align="center">
   Please join our active, growing community: <br>
   <a href="#">Website (Coming Soon)</a>
   <span> | </span>
@@ -33,8 +19,14 @@ title="PayPal – The safer, easier way to pay online!" border="0" />
 </a>
 </div>
 
+
+## Django Learning Pathways
+
+Structure of learning for Python and the Django Framework
+
+
 ## Python Basics
----
+
 <details>
 <summary><b>Python Basics Course</b>
 </summary>
