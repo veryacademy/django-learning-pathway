@@ -3,14 +3,14 @@
 Structure of learning for Python and the Django Framework
 
 
-## Python Basics
-
+### **Python Basics**
+---
 <details>
 <summary><b>Python Basics Course</b>
 </summary>
 <br>
-This first tutorial is most definitely aimed at Django beginners where we cover the basics of developing Django views, URLS, models and get started with testing our application. By the end of this tutorial you will have a working product catalogue which will form the basis of our e-commerce application.
+This course is the beginning of the journey to Python and Django proficiency. Here is this course we work from the ground up, learning how to work with various data types, variables, mathematical operations as well as capturing input from a user and controlling the flow of your programs. The course is presented in a practical example format, we work through a number of examples and then test your knowledge through code challenges.
 <br><br>
-Link to Tutorial https://youtu.be/UqSJCVePEWU
+Link to Tutorial: TBC
 </details>
 
