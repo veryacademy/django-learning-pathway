@@ -13,6 +13,14 @@ This course is the beginning of the journey to Python and Django proficiency. He
 <br><br>
 Link to Tutorial: TBC
 </details>
+<details>
+<summary><b>Python Core - Beginner + PY002</b>
+</summary>
+<br>
+This course is the beginning of the journey to Python proficiency.
+<br><br>
+Link to Tutorial: TBC
+</details>
 
 ---
 ### **Django Core**
