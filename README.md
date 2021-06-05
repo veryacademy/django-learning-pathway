@@ -44,7 +44,7 @@ Link to Tutorial: TBC
 </details>
 
 <details>
-<summary><b>Django Core - Django ORM DJ003</b>
+<summary><b>Django Core - Django ORM Mastery DJ003</b>
 </summary>
 <br>
 This course is the beginning of the journey to Python and Django proficiency. 
