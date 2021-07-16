@@ -1,4 +1,4 @@
-## **Django Learning Pathways**
+## **Python Learning Pathways**
 
 Structure of learning for Python and the Django Framework
 
